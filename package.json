@@ -1,0 +1,17 @@
+{
+  "name": "spotify-queue-player",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.0.21",
+    "node-env-file": "^0.1.4",
+    "sh": "0.0.3",
+    "spotify-web-api-node": "^1.0.2"
+  }
+}
